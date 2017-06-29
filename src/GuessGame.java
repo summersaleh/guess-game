@@ -13,7 +13,7 @@ public class GuessGame {
 		int guessp2 = 0;  
 		int guessp3 = 0;
 
-		boolean p1isRight = false;
+		boolean p1isRight = false;   
 		boolean p2isRight = false;
 		boolean p3isRight = false;
 
