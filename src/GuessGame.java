@@ -10,7 +10,7 @@ public class GuessGame {
 		p3 = new Player();
 
 		int guessp1 = 0;
-		int guessp2 = 0;
+		int guessp2 = 0;  
 		int guessp3 = 0;
 
 		boolean p1isRight = false;
