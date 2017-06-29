@@ -33,7 +33,7 @@ public class GuessGame {
 			guessp2 = p2.number;
 			System.out.println("Player two guessed " + guessp2);
 
-			guessp1 = p3.number;
+			guessp1 = p3.number; 
 			System.out.println("Player three guessed " + guessp3);
 
 			
